@@ -1,3 +1,6 @@
+### 0 POINTS 
+### KEY: I can see many of the concpepts coming through, but the code you submit has to run before we can grade it. Sorry0
+
 # Python Review Misc Topics
 
 ### Problem 1:
